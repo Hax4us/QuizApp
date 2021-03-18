@@ -3,7 +3,7 @@ package com.aide.quiz;
 import android.app.Activity;
 import android.os.Bundle;
 
-public class MainActivity extends Activity 
+public class QuizActivity extends Activity 
 {
     @Override
     protected void onCreate(Bundle savedInstanceState)
